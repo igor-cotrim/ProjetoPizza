@@ -1,5 +1,11 @@
 <h1 align = "center"> ProjetoPizza </h1>
 
+<p align="center">
+    <a href="README.md">English</a>
+    ·
+    <a href="README-pt.md">Portuguese</a>
+ </p>
+
 <p align = "center"> Layout de loja que vende pizzas feitas em HTML, CSS e Javascript. Usando flexbox e totalmente responsivo para todas as telas. </p>
 
 # Deploy
